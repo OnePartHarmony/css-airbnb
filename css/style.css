@@ -1,3 +1,20 @@
+body {
+  background: rgb(237,239,236);
+  text-align: center;
+}
+
 h1 {
-  color: salmon;
+  
+}
+
+h2 {
+
+}
+
+li {
+  color: white;
+}
+
+button {
+
 }
