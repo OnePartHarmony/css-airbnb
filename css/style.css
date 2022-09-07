@@ -4,17 +4,20 @@ body {
 }
 
 h1 {
-  
+  color: rgb(87,91,92);
 }
 
 h2 {
-
+  color: rgb(87,91,92);
 }
 
 li {
   color: white;
+  display: inline;
+
 }
 
 button {
-
+  color: rgb(87,91,92);
+  background: white;
 }
