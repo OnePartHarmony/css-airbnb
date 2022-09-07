@@ -3,16 +3,23 @@ body {
   text-align: center;
 }
 
-h1 {
+.headline {
   
 }
 
-h2 {
+.subtitle {
 
 }
 
 li {
+  display: inline-block;
   color: white;
+}
+
+img{
+  object-fit: cover;
+  width: 282px;
+  height: 309px;
 }
 
 button {
